@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace KmzToGpxConverter
@@ -14,8 +10,8 @@ namespace KmzToGpxConverter
         static void Main()
         {
             OpenFileDialog ofd = new OpenFileDialog();
-            ofd.Title = "Выберите файлы";
-            ofd.Filter = "Ломаная линия в формате kmz|*.kmz";
+            ofd.Title = "Select Files";
+            ofd.Filter = "Polyline in format kmz|*.kmz";
             ofd.InitialDirectory = AppDomain.CurrentDomain.BaseDirectory;
             ofd.Multiselect = true;
             if (ofd.ShowDialog() == DialogResult.OK)
@@ -30,7 +26,7 @@ namespace KmzToGpxConverter
                     }
                     catch
                     {
-                        MessageBox.Show("Не удалось сконвертировать файл '" + (directoryPath + "\\" + fileName) + "'");
+                        MessageBox.Show("Failed to wonvert file '" + (directoryPath + "\\" + fileName) + "'");
                     }
                 }
             }
