@@ -8,3 +8,15 @@ D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\obj\Debug\KmzToGpx
 D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\obj\Debug\KmzToGpxConverter.pdb
 D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\bin\Debug\Newtonsoft.Json.dll
 D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\bin\Debug\KmzToGpxConverter.exe.config
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\bin\Debug\KmzToGpxConverter.exe
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\bin\Debug\KmzToGpxConverter.pdb
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\obj\Debug\KmzToGpxConverter.csproj.AssemblyReference.cache
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\obj\Debug\KmzToGpxConverter.csproj.SuggestedBindingRedirects.cache
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\obj\Debug\KmzToGpxConverter.Properties.Resources.resources
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\obj\Debug\KmzToGpxConverter.csproj.GenerateResource.cache
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\obj\Debug\KmzToGpxConverter.csproj.CoreCompileInputs.cache
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\obj\Debug\KmzToGpxConverter.csproj.CopyComplete
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\obj\Debug\KmzToGpxConverter.exe
+D:\Repos\KmzToGpxConverter\KmzToGpxConverter\obj\Debug\KmzToGpxConverter.pdb

@@ -26,7 +26,7 @@ namespace KmzToGpxConverter
                     }
                     catch
                     {
-                        MessageBox.Show("Failed to wonvert file '" + (directoryPath + "\\" + fileName) + "'");
+                        MessageBox.Show("Failed to convert file '" + (directoryPath + "\\" + fileName) + "'");
                     }
                 }
             }
